@@ -1,15 +1,15 @@
-.text-center{
-    text-align: center;
+.text-left{
+    text-align: left;
 }
 
-.text-blue{
-    color: blue;
-}
-
-#submitButton{
-    background: red;
+.text-black{
+    color: black;
 }
 
 [for="email"] {
     font-weight: bold;
+}
+
+input, label, button{
+    display: block;
 }

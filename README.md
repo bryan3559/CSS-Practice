@@ -2,7 +2,7 @@ CSS Structure
 
 Introduction:
 
-This index.html file was created to practice CSS structuring. The file contains the following CSS concepts:
+This index.html file was created to practice CSS. The file contains the following CSS concepts:
 
 Concepts:
 
@@ -13,3 +13,9 @@ Concepts:
 	* Attributes ([])
 * Rulesets
 * Rules
+
+* CSS Layouts 
+	* display: none;
+	* display: block;
+	* display: inline;
+	* display: inline-block
