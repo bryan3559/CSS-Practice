@@ -1,11 +1,16 @@
 body {
     font-family: 'lato', sans-serif;
     margin: 0;
+    background: url('./joi.JPG');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    color: white
 }
 
 h1 {
     font-weight: bold;
-    color: royalblue;
+    color: white;
     font-style: italic;
     text-align: center;
 }
