@@ -1,15 +1,16 @@
-.text-left{
-    text-align: left;
+body {
+    margin: 0;
 }
 
-.text-black{
-    color: black;
-}
-
-[for="email"] {
-    font-weight: bold;
-}
-
-input, label, button{
+input, label {
     display: block;
+}
+
+main {
+    margin-left: 3em;
+}
+
+button {
+    margin: 1em 0;
+    padding: 1em;
 }
