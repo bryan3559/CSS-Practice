@@ -1,28 +1,29 @@
 body {
-    font-family: 'Lato', sans-serif;
+    font-family: 'lato', sans-serif;
     margin: 0;
 }
 
 h1 {
     font-weight: bold;
+    color: royalblue;
     font-style: italic;
-    text-decoration: underline;
-    color: royalblue
+    text-align: center;
 }
 
-h2 {
-    color: royalblue;
-    font-style: italic
+main {
+    margin-left: 5em;
 }
 
 input, label {
     display: block;
 }
 
-main {
-    margin-left: 3em;
+form {
+    padding: 1em;
+    margin: 0 auto;
+    width: 116px;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 1px black;
 }
 
-button {
-    margin: 1em 0;
-}
