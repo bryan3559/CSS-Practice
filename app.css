@@ -1,5 +1,18 @@
 body {
+    font-family: 'Lato', sans-serif;
     margin: 0;
+}
+
+h1 {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    color: royalblue
+}
+
+h2 {
+    color: royalblue;
+    font-style: italic
 }
 
 input, label {
@@ -12,5 +25,4 @@ main {
 
 button {
     margin: 1em 0;
-    padding: 1em;
 }
